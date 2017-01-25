@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Knuddels chat
+Name[de]=Knuddels Chat
+Exec=~/.local/bin/knuddels
+Terminal=false
+Type=Application
+Icon=knuddels.png
+Categories=Network;

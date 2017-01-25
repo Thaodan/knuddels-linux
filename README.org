@@ -1,0 +1,15 @@
+#+TITLE: Readme
+
+Hier mit kann man Knuddels in sein System installieren.
+Damit es im (Start)-Menü unter Linux erscheint.
+Es müssen nur das Knuddels Icon (knuddels.png) und das Knuddels Jar
+in dieses Verzeichnis gelegt werden.
+
+
+* Installation
+
+#+BEGIN_CODE sh
+make install PREFIX=~/.local
+#+END_CODE
+
+
