@@ -8,8 +8,6 @@ in dieses Verzeichnis gelegt werden.
 
 * Installation
 
-#+BEGIN_CODE sh
+#+BEGIN_SRC sh
 make install PREFIX=~/.local
-#+END_CODE
-
-
+#+END_SRC
